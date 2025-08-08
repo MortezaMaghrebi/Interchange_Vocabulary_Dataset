@@ -39,9 +39,8 @@ The entire workflow was automated using custom scripts along with NLP tools.
 
 ## 📂 Repository Contents
 
-- **`final_words_list.csv`** → Final vocabulary list with translation, examples, CEFR level, and pronunciation.  
-- **`raw_extracted_words.txt`** → Initial extracted word list before processing.  
-- **Scripts & Tools** → For extraction, filtering, and processing.
+- **`InterchangeX_StudentBook`** → Final vocabulary list with translation, examples, CEFR level, and pronunciation.  
+
 
 ---
 
