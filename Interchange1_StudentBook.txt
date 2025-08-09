@@ -1,4 +1,34 @@
-﻿Beard#ریش#He grew a thick beard.#Facial hair#A2#اسم#/bɪrd/
+﻿Acceptable#قابل قبول#The quality of your work is acceptable.#Suitable#B1#/əkˈsep.tə.bəl/
+Acceptance#پذیرش#Her acceptance speech was inspiring.#Approval#B2#/əkˈseptəns/
+Accomplish#به انجام رساندن#He accomplished his goals.#Achieve#B2#/əˈkʌmplɪʃ/
+Accountant#حسابدار#She works as an accountant.#Bookkeeper#B1#/əˈkaʊntənt/
+Adjust#تنظیم کردن#Adjust the settings for better results.#Adapt#B1#/əˈdʒʌst/
+Advertisement#تبلیغات#The advertisement was very creative.#Ad#A2#/ˌædvərˈtaɪzmənt/
+Aerobic#هوازی#Aerobic exercises improve health.#Cardio#B1#/eəˈroʊbɪk/
+Afterward#بعداً#We went to dinner afterward.#Later#B1#/ˈæftərwərd/
+Aide#دستیار#The teacher's aide helped the students.#Assistant#B2#/eɪd/
+Album#آلبوم#She released a new album.#Record#A2#/ˈælbəm/
+Alien#موجود فضایی#The movie was about an alien invasion.#Extraterrestrial#B1#/ˈeɪliən/
+Angel#فرشته#She is kind like an angel.#Cherub#A2#/ˈeɪndʒəl/
+Annex#ضمیمه#The document has an annex.#Appendix#B2#/əˈneks/
+Annoyed#عصبانی#He was annoyed by the noise.#Irritated#B1#/əˈnɔɪd/
+Antacid#ضد اسید#Antacids help with heartburn.#Acid reducer#B2#/ˈæntəsɪd/
+Approach#نزدیک شدن#The cat approached slowly.#Near#B1#/əˈproʊtʃ/
+Arcade#بازی‌گاه#We played games at the arcade.#Amusement hall#A2#/ɑːrˈkeɪd/
+Archive#بایگانی#The documents are in the archive.#Records#B2#/ˈɑːrkaɪv/
+Aspirin#آسپرین#She took aspirin for her headache.#Painkiller#A2#/ˈæsprɪn/
+Assessment#ارزیابی#The teacher gave an assessment.#Evaluation#B2#/əˈsesmənt/
+Attendant#خدمه#The flight attendant helped us.#Assistant#B1#/əˈtendənt/
+Aura#هاله#She has a positive aura.#Vibe#C1#/ˈɔːrə/
+Avenue#بلوار#They walked down the tree-lined avenue.#Boulevard#B1#/ˈæv.ə.njuː/
+Axiom#اصل موضوع#It’s an axiom in mathematics.#Principle#C2#/ˈæksiəm/
+Babysitter#پرستار بچه#The babysitter read a story.#Childminder#A2#/ˈbeɪbisɪtər/
+Baggy#گشاد#He wore baggy pants.#Loose#B1#/ˈbæɡi/
+Bald#طاس#His head is bald.#Hairless#A2#/bɔːld/
+Bandage#باند#She put a bandage on the cut.#Dressing#A2#/ˈbændɪdʒ/
+Bargain#معامله#I found a bargain at the store.#Deal#B1#/ˈbɑːrɡən/
+Beach#ساحل#We relaxed at the beach all day.#Shore#A1#/biːtʃ/
+Beard#ریش#He grew a thick beard.#Facial hair#A2#اسم#/bɪrd/
 Berry#توت#She picked fresh berries from the garden.#Fruit#A2#اسم#/ˈberi/
 Bin#سطل زباله#Put the rubbish in the bin.#Trash can, Dustbin#A2#اسم#/bɪn/
 Biography#زندگینامه#I read a biography about Einstein.#Life story#A2#اسم#/baɪˈɑːɡrəfi/

@@ -1,15 +1,10 @@
-Acceptable#قابل قبول#The quality of your work is acceptable.#Suitable#B1#/əkˈsep.tə.bəl/
-Accommodation#محل اقامت#We booked accommodation for our vacation.#Lodging#B1#/əˌkɒm.əˈdeɪ.ʃn̩/
-Accountant#حسابدار#She works as an accountant for a large firm.#Bookkeeper#B2#/əˈkaʊn.tənt/
-Accuse#متهم کردن#He was accused of stealing the money.#Blame#B2#/əˈkjuːz/
+﻿Accuse#متهم کردن#He was accused of stealing the money.#Blame#B2#/əˈkjuːz/
 Adapt#سازگار شدن#She adapted quickly to the new environment.#Adjust#B1#/əˈdæpt/
 Admit#اعتراف کردن#He admitted to making a mistake.#Confess#B1#/ədˈmɪt/
 Advantage#مزیت#Living here has the advantage of low costs.#Benefit#B1#/ədˈvæn.tɪdʒ/
 Adventurous#ماجراجو#She has an adventurous personality.#Daring#B2#/ədˈven.tʃər.əs/
-Advertisement#تبلیغات#The job advertisement was in the newspaper.#Ad#B1#/ədˈvɜː.tɪs.mənt/
 Affordable#مقرون به صرفه#The hotel offers affordable rooms.#Inexpensive#B1#/əˈfɔː.də.bəl/
 Afterward#بعداً#We went for coffee afterward.#Later#B1#/ˈæf.tə.wərd/
-Album#آلبوم#She keeps her photos in an album.#Collection#A2#/ˈæl.bəm/
 Alibi#دفاع قانونی#He had a solid alibi for the crime.#Defense#B2#/ˈæl.ɪ.baɪ/
 Ambition#جاه طلبی#Her ambition is to become a doctor.#Goal#B1#/æmˈbɪʃ.ən/
 Amend#اصلاح کردن#The contract was amended to include new terms.#Revise#B2#/əˈmend/
@@ -22,19 +17,14 @@ Annual#سالانه#The company holds an annual conference.#Yearly#B1#/ˈæn.ju.
 Apology#عذرخواهی#She offered a sincere apology for her mistake.#Regret#B1#/əˈpɒl.ə.dʒi/
 Applicant#متقاضی#Over 100 applicants applied for the job.#Candidate#B2#/ˈæp.lɪ.kənt/
 Architect#معمار#The architect designed a stunning building.#Designer#B1#/ˈɑːr.kɪ.tekt/
-Aspirin#آسپرین#He took an aspirin for his headache.#Painkiller#A2#/ˈæs.pɪ.rɪn/
 Assembly#اجتماع#The school assembly is held in the gym.#Gathering#B2#/əˈsem.bli/
 Assessment#ارزیابی#The project assessment took a week.#Evaluation#B2#/əˈses.mənt/
 Assignment#تکلیف#The teacher gave a new assignment.#Task#B1#/əˈsaɪn.mənt/
 Athletic#ورزشکار#He has an athletic build from training.#Sporty#B1#/æθˈlet.ɪk/
-Attendant#خدمه#The flight attendant served drinks.#Assistant#B1#/əˈten.dənt/
 Audition#آزمایش بازیگری#She attended an audition for the play.#Tryout#B2#/ɔːˈdɪʃ.ən/
 Authentic#اصیل#The dish is an authentic Italian recipe.#Genuine#B2#/ɔːˈθen.tɪk/
-Avenue#بلوار#They walked down the tree-lined avenue.#Boulevard#B1#/ˈæv.ə.njuː/
-Babysit#پرستاری از کودک#She babysits for her neighbors.#Childmind#B1#/ˈbeɪ.bi.sɪt/
 Bale#بسته#The farmer stacked bales of hay.#Bundle#B2#/beɪl/
 Ballerina#بالرین#The ballerina danced gracefully on stage.#Dancer#B2#/ˌbæl.əˈriː.nə/
-Beach#ساحل#We relaxed at the beach all day.#Shore#A1#/biːtʃ/
 Beef#گوشت گاو#He ordered a beef burger for lunch.#Meat#A2#/biːf/
 Beginning#آغاز#The movie’s beginning was thrilling.#Start#A1#/bɪˈɡɪn.ɪŋ/
 Believable#باورپذیر#His excuse was barely believable.#Credible#B2#/bɪˈliː.və.bəl/
