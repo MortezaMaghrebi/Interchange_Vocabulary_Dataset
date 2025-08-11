@@ -1,4 +1,4 @@
-﻿Acceptable#قابل قبول#The quality of your work is acceptable.#Suitable#B1#/əkˈsep.tə.bəl/
+Acceptable#قابل قبول#The quality of your work is acceptable.#Suitable#B1#/əkˈsep.tə.bəl/
 Acceptance#پذیرش#Her acceptance speech was inspiring.#Approval#B2#/əkˈseptəns/
 Accomplish#به انجام رساندن#He accomplished his goals.#Achieve#B2#/əˈkʌmplɪʃ/
 Accountant#حسابدار#She works as an accountant.#Bookkeeper#B1#/əˈkaʊntənt/
@@ -28,361 +28,361 @@ Bald#طاس#His head is bald.#Hairless#A2#/bɔːld/
 Bandage#باند#She put a bandage on the cut.#Dressing#A2#/ˈbændɪdʒ/
 Bargain#معامله#I found a bargain at the store.#Deal#B1#/ˈbɑːrɡən/
 Beach#ساحل#We relaxed at the beach all day.#Shore#A1#/biːtʃ/
-Beard#ریش#He grew a thick beard.#Facial hair#A2#اسم#/bɪrd/
-Berry#توت#She picked fresh berries from the garden.#Fruit#A2#اسم#/ˈberi/
-Bin#سطل زباله#Put the rubbish in the bin.#Trash can, Dustbin#A2#اسم#/bɪn/
-Biography#زندگینامه#I read a biography about Einstein.#Life story#A2#اسم#/baɪˈɑːɡrəfi/
-Bland#بی‌مزه#The food was too bland for my taste.#Tasteless#B1#صفت#/blænd/
-Blond#بلوند#He has blond hair and blue eyes.#Fair-haired#A2#صفت#/blɑːnd/
-Boggy#باتلاقی#The ground was boggy after the rain.#Muddy, Swampy#B2#صفت#/ˈbɑːɡi/
-Bother#زحمت کشیدن#Don’t bother calling, I’m busy.#Trouble, Annoy#B1#فعل#/ˈbɑːðər/
-Brand#برند#This is a popular clothing brand.#Label, Make#B1#اسم#/brænd/
-Bronze#برنز#She won a bronze medal in swimming.#Copper alloy#B1#اسم#/brɑːnz/
-Broom#جارو#She swept the floor with a broom.#Sweeper#A2#اسم#/bruːm/
-Brother#برادر#My brother is studying abroad.#Sibling#A1#اسم#/ˈbrʌðər/
-Budget#بودجه#We planned a tight budget for the trip.#Financial plan#B1#اسم#/ˈbʌdʒɪt/
-Building#ساختمان#That building has ten floors.#Structure#A1#اسم#/ˈbɪldɪŋ/
-Busy#مشغول#I’m too busy to talk now.#Occupied#A1#صفت#/ˈbɪzi/
-Butler#پیشخدمت#The butler served tea in the mansion.#Servant#B2#اسم#/ˈbʌtlər/
-Button#دکمه#Press the red button to start.#Switch#A1#اسم#/ˈbʌtn/
-Cafe#کافه#Let’s meet at the cafe downtown.#Coffee shop#A1#اسم#/ˈkæfeɪ/
-Cafeteria#غذاخوری#The cafeteria serves lunch daily.#Dining hall#A2#اسم#/ˌkæfəˈtɪriə/
-Calendar#تقویم#Mark the meeting on the calendar.#Schedule#A1#اسم#/ˈkælɪndər/
-Caller#تماس‌گیرنده#The caller left a voicemail.#Person calling#B1#اسم#/ˈkɔːlər/
-Cancel#لغو کردن#They canceled the concert due to rain.#Call off#B1#فعل#/ˈkænsl/
-Cannon#توپ جنگی#The cannon fired during the ceremony.#Artillery#B2#اسم#/ˈkænən/
-Canoe#قایق پارویی#We paddled a canoe on the lake.#Boat#B1#اسم#/kəˈnuː/
-Canyon#دره#The Grand Canyon is stunning.#Gorge#B2#اسم#/ˈkænjən/
-Cargo#محموله#The ship carried heavy cargo.#Freight#B1#اسم#/ˈkɑːrɡoʊ/
-Carpenter#نجار#The carpenter built a wooden chair.#Woodworker#B1#اسم#/ˈkɑːrpəntər/
-Cashier#صندوقدار#The cashier scanned my groceries.#Teller#A2#اسم#/kæˈʃɪr/
-Celsius#سانتیگراد#It’s 20 degrees Celsius today.#Centigrade#A2#اسم#/ˈselsiəs/
-Centennial#صدسالگی#The town celebrated its centennial.#100th anniversary#B2#اسم#/senˈteniəl/
-Challenge#چالش#The puzzle was a real challenge.#Test, Task#B1#اسم#/ˈtʃælɪndʒ/
-Chat#گپ زدن#We chatted about movies over coffee.#Talk#A1#فعل#/tʃæt/
-Cheap#ارزان#This shirt was really cheap.#Inexpensive#A1#صفت#/tʃiːp/
-Chef#آشپز#The chef prepared a delicious meal.#Cook#A2#اسم#/ʃef/
-Chopstick#چوبک غذاخوری#Use chopsticks to eat sushi.#Eating sticks#A2#اسم#/ˈtʃɑːpstɪk/
-Chore#کار خانگی#Washing dishes is a daily chore.#Task#A2#اسم#/tʃɔːr/
-Classic#کلاسیک#This is a classic novel.#Timeless#B1#صفت#/ˈklæsɪk/
-Click#کلیک کردن#Click the icon to open the file.#Press#A1#فعل#/klɪk/
-Clockwise#ساعت‌گرد#Turn the knob clockwise to open.#In clock direction#B1#قید#/ˈklɑːkwaɪz/
-Coil#سیم‌پیچ#The coil was made of copper wire.#Spiral#B2#اسم#/kɔɪl/
-Columnist#ستون‌نویس#The columnist wrote about politics.#Journalist#B2#اسم#/ˈkɑːləmnɪst/
-Comet#ستاره دنباله‌دار#We saw a comet in the night sky.#Celestial body#B2#اسم#/ˈkɑːmɪt/
-Comparison#مقایسه#She made a comparison between the two cars.#Contrast#B1#اسم#/kəmˈpærɪsn/
-Compatible#سازگار#This app is compatible with my phone.#Suitable#B2#صفت#/kəmˈpætəbl/
-Complaint#شکایت#He filed a complaint about the service.#Grievance#B1#اسم#/kəmˈpleɪnt/
-Computer#کامپیوتر#I work on my computer all day.#PC#A1#اسم#/kəmˈpjuːtər/
-Concert#کنسرت#We enjoyed a rock concert last night.#Musical performance#A2#اسم#/ˈkɑːnsərt/
-Congratulations#تبریک#Congratulations on your new job!#Good wishes#A2#اسم#/kənˌɡrætʃəˈleɪʃn/
-Container#ظرف#Store leftovers in a container.#Box#A2#اسم#/kənˈteɪnər/
-Contest#مسابقه#She won the singing contest.#Competition#B1#اسم#/ˈkɑːntest/
-Contribute#مشارکت کردن#He contributed to the charity.#Donate, Assist#B1#فعل#/kənˈtrɪbjuːt/
-Convenient#راحت#This app is very convenient to use.#Handy#B1#صفت#/kənˈviːniənt/
-Correspond#مکاتبه کردن#They correspond via email weekly.#Communicate#B2#فعل#/ˌkɔːrəˈspɑːnd/
-Costume#لباس#She wore a witch costume for Halloween.#Outfit#A2#اسم#/ˈkɑːstuːm/
-Countess#کنتس#The countess hosted a grand ball.#Noblewoman#C1#اسم#/ˈkaʊntəs/
-Courtesy#ادب#He showed courtesy to his guests.#Politeness#B2#اسم#/ˈkɜːrtəsi/
-Credit#اعتبار#She has good credit for loans.#Trust#B1#اسم#/ˈkredɪt/
-Crime#جنایت#The police investigated the crime.#Offense#B1#اسم#/kraɪm/
-Cruise#کشتی‌سواری#We went on a Caribbean cruise.#Voyage#B1#اسم#/kruːz/
-Cuisine#آشپزی#Italian cuisine is my favorite.#Cooking style#B1#اسم#/kwɪˈziːn/
-Culinary#آشپزی#She has great culinary skills.#Cooking#B2#صفت#/ˈkʌlɪneri/
-Culture#فرهنگ#This city has a rich culture.#Heritage#B1#اسم#/ˈkʌltʃər/
-Curly#فر#Her curly hair looks amazing.#Wavy#A2#صفت#/ˈkɜːrli/
-Curry#کاری#I love spicy chicken curry.#Spicy dish#A2#اسم#/ˈkɜːri/
-Custom#سفارشی#They ordered a custom-made cake.#Personalized#B1#صفت#/ˈkʌstəm/
-Customer#مشتری#The customer asked for a refund.#Client#A1#اسم#/ˈkʌstəmər/
-Cyclist#دوچرخه‌سوار#The cyclist rode up the hill.#Biker#A2#اسم#/ˈsaɪklɪst/
-Deep#عمیق#The lake is very deep.#Profound#A2#صفت#/diːp/
-Default#پیش‌فرض#Use the default settings for now.#Standard#B2#اسم#/dɪˈfɔːlt/
-Demonstrative#نمایشی#His speech was very demonstrative.#Expressive#C1#صفت#/dɪˈmɑːnstrətɪv/
-Desktop#دسکتاپ#I organized my desktop icons.#Computer screen#B1#اسم#/ˈdesktɑːp/
-Detective#کارآگاه#The detective solved the mystery.#Investigator#B1#اسم#/dɪˈtektɪv/
-Dice#تاس#Roll the dice to start the game.#Cube#A2#اسم#/daɪs/
-Disk#دیسک#Save the file to a disk.#Disc#B1#اسم#/dɪsk/
-District#منطقه#This is the shopping district.#Area#B1#اسم#/ˈdɪstrɪkt/
-Earring#گوشواره#She lost her favorite earring.#Jewelry#A2#اسم#/ˈɪrɪŋ/
-Edition#ویرایش#This is the new edition of the book.#Version#B1#اسم#/ɪˈdɪʃn/
-Editor#ویراستار#The editor checked the manuscript.#Publisher#B1#اسم#/ˈedɪtər/
-Ego#خود#He has a big ego.#Self-esteem#B2#اسم#/ˈiːɡoʊ/
-Electronic#الکترونیکی#I bought an electronic gadget.#Digital#B1#صفت#/ɪˌlekˈtrɑːnɪk/
-Elevator#آسانسور#Take the elevator to the top floor.#Lift#A2#اسم#/ˈelɪveɪtər/
-Elk#گوزن شمالی#We saw an elk in the forest.#Deer#B2#اسم#/elk/
-Elm#نارون#The elm tree provides shade.#Tree#B2#اسم#/elm/
-Empire#امپراتوری#The Roman Empire was powerful.#Kingdom#B2#اسم#/ˈempaɪər/
-Encyclopedia#دانشنامه#Look it up in the encyclopedia.#Reference book#B2#اسم#/ɪnˌsaɪkləˈpiːdiə/
-Engage#مشغول کردن#The teacher engaged the class.#Involve#B2#فعل#/ɪnˈɡeɪdʒ/
-Entertainer#سرگرم‌کننده#The entertainer sang beautifully.#Performer#B1#اسم#/ˌentərˈteɪnər/
-Etiquette#آداب#Learn proper dining etiquette.#Manners#B2#اسم#/ˈetɪket/
-Evening#عصر#Let’s meet this evening.#Nighttime#A1#اسم#/ˈiːvnɪŋ/
-Fancy#شیک#She wore a fancy dress to the party.#Elegant#B1#صفت#/ˈfænsi/
-Farmer#کشاورز#The farmer grows fresh vegetables.#Agriculturist#A2#اسم#/ˈfɑːrmər/
-Fascinate#مجذوب کردن#The book fascinated the children.#Captivate#B2#فعل#/ˈfæsɪneɪt/
-Faucet#شیر آب#Fix the dripping faucet.#Tap#A2#اسم#/ˈfɔːsɪt/
-Feedback#بازخورد#Your feedback helps us improve.#Response#B1#اسم#/ˈfiːdbæk/
-Feminine#زنانه#She prefers feminine clothing.#Womanly#B2#صفت#/ˈfemənɪn/
-Fiction#داستان#I enjoy reading fiction books.#Novel#B1#اسم#/ˈfɪkʃn/
-Fist#مشت#He clenched his fist in anger.#Hand#A2#اسم#/fɪst/
-Flamingo#فلامینگو#The flamingo stood in the water.#Bird#B2#اسم#/fləˈmɪŋɡoʊ/
-Flea#کک#The dog was scratching fleas.#Insect#B2#اسم#/fliː/
-Flyer#تراکت#They handed out flyers for the event.#Leaflet#B1#اسم#/ˈflaɪər/
-Foggy#مه‌آلود#The foggy morning delayed flights.#Misty#A2#صفت#/ˈfɑːɡi/
-Foreigner#خارجی#The foreigner needed a map.#Non-native#B1#اسم#/ˈfɔːrənər/
-Formal#رسمی#Wear formal attire for the meeting.#Official#B1#صفت#/ˈfɔːrml/
-Foster#پرورش دادن#They foster stray cats.#Nurture#B2#فعل#/ˈfɑːstər/
-Freak#عجیب#He’s a fitness freak.#Enthusiast#B2#اسم#/friːk/
-Friendly#دوستانه#She’s always friendly to everyone.#Kind#A1#صفت#/ˈfrendli/
-Fry#سرخ کردن#Fry the eggs in a pan.#Cook#A2#فعل#/fraɪ/
-Funky#خاص#This song has a funky beat.#Quirky#B1#صفت#/ˈfʌŋki/
-Fuse#فیوز#The fuse needs replacing.#Circuit breaker#B2#اسم#/fjuːz/
-Gala#جشن#They attended a charity gala.#Festival#B2#اسم#/ˈɡɑːlə/
-Garlic#سیر#Add garlic to the sauce.#Herb#A2#اسم#/ˈɡɑːrlɪk/
-Garner#جمع‌آوری کردن#She garnered support for the project.#Collect#B2#فعل#/ˈɡɑːrnər/
-Gem#گوهر#The necklace has a rare gem.#Jewel#B2#اسم#/dʒem/
-Geography#جغرافیا#We studied world geography.#Earth science#B1#اسم#/dʒiˈɑːɡrəfi/
-Girlfriend#دوست‌دختر#His girlfriend is a doctor.#Partner#A2#اسم#/ˈɡɜːrlfrend/
-Glacier#یخچال طبیعی#The glacier is slowly melting.#Ice sheet#B2#اسم#/ˈɡleɪʃər/
-Goodness#نیکی#Thank goodness you’re here!#Kindness#B1#اسم#/ˈɡʊdnəs/
-Gorgeous#خیره‌کننده#The sunset was gorgeous.#Stunning#B1#صفت#/ˈɡɔːrdʒəs/
-Gospel#موسیقی مذهبی#They sang gospel at church.#Religious music#B2#اسم#/ˈɡɑːspl/
-Grace#لطافت#She danced with grace.#Elegance#B2#اسم#/ɡreɪs/
-Graduation#فارغ‌التحصیلی#Her graduation is next week.#Commencement#B1#اسم#/ˌɡrædʒuˈeɪʃn/
-Greasy#چرب#The pizza was too greasy.#Oily#B1#صفت#/ˈɡriːsi/
-Greeting#سلام#Send a greeting card for her birthday.#Salutation#A1#اسم#/ˈɡriːtɪŋ/
-Grocery#خواربار#I bought groceries for dinner.#Food items#A2#اسم#/ˈɡroʊsəri/
-Guinea#خوکچه هندی#Guinea pigs make great pets.#Rodent#B1#اسم#/ˈɡɪni/
-Guitar#گیتار#He played a tune on the guitar.#String instrument#A2#اسم#/ɡɪˈtɑːr/
-Gum#آدامس#She chewed gum during the meeting.#Chewing gum#A2#اسم#/ɡʌm/
-Gymnastic#ژیمناستیک#She excels at gymnastic routines.#Athletics#B1#اسم#/dʒɪmˈnæstɪk/
-Haircut#کوتاهی مو#I need a haircut this weekend.#Trim#A2#اسم#/ˈherkʌt/
-Hairstyle#مدل مو#She tried a new hairstyle.#Hairdo#A2#اسم#/ˈherstaɪl/
-Hazel#فندقی#Her hazel eyes sparkled.#Brownish-green#B1#صفت#/ˈheɪzl/
-Headphone#هدفون#Use headphones to listen to music.#Earphones#A2#اسم#/ˈhedfoʊn/
-Healthy#سالم#Eat healthy to stay fit.#Nutritious#A1#صفت#/ˈhelθi/
-Herbal#گیاهی#Try this herbal tea for relaxation.#Natural#B1#صفت#/ˈɜːrbl/
-Historic#تاریخی#This is a historic monument.#Historical#B1#صفت#/hɪˈstɔːrɪk/
-Horror#وحشت#I don’t watch horror movies.#Terror#B1#اسم#/ˈhɔːrər/
-Household#خانگی#Household chores take time.#Domestic#B1#صفت#/ˈhaʊshoʊld/
-Housework#کارهای خانه#She does housework every weekend.#Chores#A2#اسم#/ˈhaʊswɜːrk/
-Icon#آیکون#Click the icon to start the app.#Symbol#B1#اسم#/ˈaɪkɑːn/
-Illustration#تصویر#The book has colorful illustrations.#Drawing#B1#اسم#/ˌɪləˈstreɪʃn/
-Incorporate#گنجاندن#Incorporate feedback into the plan.#Include#B2#فعل#/ɪnˈkɔːrpəreɪt/
-Incredible#باورنکردنی#The view was incredible.#Amazing#B1#صفت#/ɪnˈkredəbl/
-Industry#صنعت#She works in the fashion industry.#Business#B1#اسم#/ˈɪndəstri/
-Inexpensive#ارزان#This store sells inexpensive clothes.#Cheap#A2#صفت#/ˌɪnɪkˈspensɪv/
-Initial#اولیه#Write your initials on the form.#First letter#B1#صفت#/ɪˈnɪʃl/
-Ink#جوهر#The pen ran out of ink.#Dye#A2#اسم#/ɪŋk/
-Insert#وارد کردن#Insert the key into the lock.#Put in#B1#فعل#/ɪnˈsɜːrt/
-Insight#بینش#Her insight helped solve the problem.#Understanding#B2#اسم#/ˈɪnsaɪt/
-Insomnia#بی‌خوابی#He suffers from insomnia.#Sleeplessness#B2#اسم#/ɪnˈsɑːmniə/
-Installation#نصب#The software installation was quick.#Setup#B2#اسم#/ˌɪnstəˈleɪʃn/
-Interactive#تعاملی#The game is highly interactive.#Participatory#B1#صفت#/ˌɪntərˈæktɪv/
-Italic#ایتالیک#Use italic text for emphasis.#Slanted#B1#صفت#/ɪˈtælɪk/
-Itchy#خارش‌دار#This sweater is itchy.#Irritating#A2#صفت#/ˈɪtʃi/
-Jewelry#جواهرات#She loves wearing jewelry.#Ornaments#A2#اسم#/ˈdʒuːəlri/
-Joke#شوخی#He told a funny joke.#Prank#A1#اسم#/dʒoʊk/
-Kale#کلم پیچ#Kale is great for smoothies.#Greens#B1#اسم#/keɪl/
-Karaoke#کارائوکه#We sang karaoke at the party.#Sing-along#A2#اسم#/ˌkæriˈoʊki/
-Karate#کاراته#She practices karate twice a week.#Martial art#A2#اسم#/kəˈrɑːti/
-Keen#مشتاق#He’s keen to join the team.#Eager#B1#صفت#/kiːn/
-King#پادشاه#The king ruled for decades.#Monarch#A2#اسم#/kɪŋ/
-Lace#توری#Her dress has lace sleeves.#Fabric#A2#اسم#/leɪs/
-Lamb#بره#We had roast lamb for dinner.#Young sheep#A2#اسم#/læm/
-Lane#خط#Stay in your lane while driving.#Path#A2#اسم#/leɪn/
-Laundry#لباسشویی#I need to do the laundry.#Washing#A2#اسم#/ˈlɔːndri/
-League#لیگ#They joined a soccer league.#Association#B1#اسم#/liːɡ/
-Leaky#نشتی#The pipe is leaky and needs fixing.#Dripping#B1#صفت#/ˈliːki/
-Learner#یادگیرنده#She’s a quick learner.#Student#A2#اسم#/ˈlɜːrnər/
-Leisure#اوقات فراغت#Reading is my leisure activity.#Free time#B1#اسم#/ˈliːʒər/
-Liberty#آزادی#They fought for their liberty.#Freedom#B2#اسم#/ˈlɪbərti/
-Lime#لیموترش#Add lime juice to the cocktail.#Citrus#A2#اسم#/laɪm/
-Lively#سرزنده#The party was very lively.#Energetic#B1#صفت#/ˈlaɪvli/
-Loan#وام#She took out a bank loan.#Credit#B1#اسم#/loʊn/
-Lotion#لوسیون#Apply lotion to dry skin.#Cream#A2#اسم#/ˈloʊʃn/
-Lottery#بخت‌آزمایی#He won the lottery jackpot.#Raffle#B1#اسم#/ˈlɑːtəri/
-Maid#خدمتکار#The maid cleaned the hotel room.#Housekeeper#A2#اسم#/meɪd/
-Mall#مرکز خرید#Let’s shop at the mall.#Shopping center#A2#اسم#/mɔːl/
-Mandarin#ماندارین#She speaks fluent Mandarin.#Chinese#B1#اسم#/ˈmændərɪn/
-Mangrove#مانگرو#Mangroves grow near the coast.#Swamp tree#B2#اسم#/ˈmæŋɡroʊv/
-Manner#رفتار#Mind your manners at dinner.#Behavior#B1#اسم#/ˈmænər/
-Maple#افرا#Maple syrup is delicious.#Tree#B1#اسم#/ˈmeɪpl/
-Mate#دوست#He’s my best mate.#Friend#A2#اسم#/meɪt/
-Measurement#اندازه‌گیری#Take precise measurements.#Dimension#B1#اسم#/ˈmeʒərmənt/
-Medication#دارو#Take your medication daily.#Medicine#B1#اسم#/ˌmedɪˈkeɪʃn/
-Medicinal#دارویی#This plant has medicinal properties.#Healing#B2#صفت#/məˈdɪsɪnl/
-Menu#منو#Check the restaurant menu.#List#A1#اسم#/ˈmenjuː/
-Meter#متر#Measure it with a meter.#Unit#A2#اسم#/ˈmiːtər/
-Methodology#روش‌شناسی#The study used a clear methodology.#Approach#C1#اسم#/ˌmeθəˈdɑːlədʒi/
-Microphone#میکروفون#Speak clearly into the microphone.#Mic#A2#اسم#/ˈmaɪkrəfoʊn/
-Mint#نعناع#Add mint to the drink.#Herb#A2#اسم#/mɪnt/
-Morning#صبح#Good morning, how are you?#Dawn#A1#اسم#/ˈmɔːrnɪŋ/
-Moroccan#مراکشی#She bought a Moroccan lamp.#North African#B1#صفت#/məˈrɑːkən/
-Mother#مادر#My mother baked a cake.#Mom#A1#اسم#/ˈmʌðər/
-Motivate#انگیزه دادن#The coach motivated the team.#Inspire#B1#فعل#/ˈmoʊtɪveɪt/
-Motorcycle#موتورسیکلت#He rides a motorcycle to work.#Bike#A2#اسم#/ˈmoʊtərsaɪkl/
-Mountain#کوه#We hiked up the mountain.#Peak#A1#اسم#/ˈmaʊntn/
-Mulch#مالچ#Spread mulch in the garden.#Covering#B2#اسم#/mʌltʃ/
-Multicultural#چندفرهنگی#The festival was multicultural.#Diverse#B2#صفت#/ˌmʌltiˈkʌltʃərəl/
-Mural#نقاشی دیواری#The mural decorates the wall.#Wall painting#B1#اسم#/ˈmjʊrəl/
-Mustache#سبیل#He trimmed his mustache.#Facial hair#A2#اسم#/ˈmʌstæʃ/
-Necklace#گردنبند#She wore a silver necklace.#Chain#A2#اسم#/ˈnekləs/
-Neutral#خنثی#Stay neutral in the discussion.#Impartial#B1#صفت#/ˈnuːtrəl/
-Niece#خواهرزاده#My niece loves to draw.#Relative#A2#اسم#/niːs/
-Nightclub#کلوپ شبانه#They danced at the nightclub.#Club#A2#اسم#/ˈnaɪtklʌb/
-Noisy#پر سر و صدا#The noisy crowd cheered loudly.#Loud#A2#صفت#/ˈnɔɪzi/
-Number#شماره#Write down your phone number.#Digit#A1#اسم#/ˈnʌmbər/
-Oat#جو#Oatmeal is a healthy breakfast.#Cereal#A2#اسم#/oʊt/
-Octopus#هشت‌پا#The octopus swam in the aquarium.#Sea creature#B1#اسم#/ˈɑːktəpəs/
-Offer#پیشنهاد#She made an offer on the house.#Proposal#B1#اسم#/ˈɔːfər/
-Officer#افسر#The officer helped with traffic.#Official#A2#اسم#/ˈɔːfɪsər/
-Ointment#پماد#Apply ointment to the cut.#Cream#B1#اسم#/ˈɔɪntmənt/
-Optical#نوری#The optical illusion was amazing.#Visual#B2#صفت#/ˈɑːptɪkl/
-Orchid#ارکیده#The orchid bloomed beautifully.#Plant#B1#اسم#/ˈɔːrkɪd/
-Outdoor#فضای باز#We enjoy outdoor sports.#Outside#A2#صفت#/ˈaʊtdɔːr/
-Overtime#اضافه‌کاری#He worked overtime to finish.#Extra hours#B1#اسم#/ˈoʊvərtaɪm/
-Painting#نقاشی#Her painting won an award.#Artwork#A2#اسم#/ˈpeɪntɪŋ/
-Paper#کاغذ#Write your name on the paper.#Sheet#A1#اسم#/ˈpeɪpər/
-Paperback#کتاب جلد نرم#I prefer paperback books.#Softcover#B1#اسم#/ˈpeɪpərbæk/
-Participation#مشارکت#Your participation is appreciated.#Involvement#B1#اسم#/pɑːrˌtɪsɪˈpeɪʃn/
-Pasta#پاستا#Cook pasta for dinner.#Noodles#A2#اسم#/ˈpɑːstə/
-Peacock#طاووس#The peacock spread its feathers.#Bird#B1#اسم#/ˈpiːkɑːk/
-Peak#قله#We reached the mountain peak.#Summit#B1#اسم#/piːk/
-Peanut#بادام زمینی#She ate a peanut butter sandwich.#Nut#A2#اسم#/ˈpiːnʌt/
-Performance#اجرا#The performance was outstanding.#Show#B1#اسم#/pərˈfɔːrməns/
-Pharmacy#داروخانه#Get medicine from the pharmacy.#Drugstore#A2#اسم#/ˈfɑːrməsi/
-Photograph#عکس#Take a photograph of the sunset.#Picture#A1#اسم#/ˈfoʊtəɡræf/
-Photography#عکاسی#She studied photography in college.#Photo art#B1#اسم#/fəˈtɑːɡrəfi/
-Pierce#سوراخ کردن#She pierced her nose.#Puncture#B1#فعل#/pɪrs/
-Pizza#پیتزا#Let’s order a pepperoni pizza.#Italian dish#A1#اسم#/ˈpiːtsə/
-Plaza#میدان#Meet me at the city plaza.#Square#A2#اسم#/ˈplɑːzə/
-Polka#پولکا#They danced a lively polka.#Dance#B2#اسم#/ˈpoʊlkə/
-Possession#مالکیت#The car is his possession.#Ownership#B1#اسم#/pəˈzeʃn/
-Preference#ترجیح#What’s your preference for dinner?#Choice#B1#اسم#/ˈprefrəns/
-Pretty#زیبا#She looked pretty in her dress.#Beautiful#A1#صفت#/ˈprɪti/
-Processor#پردازنده#The computer has a fast processor.#CPU#B1#اسم#/ˈprɑːsesər/
-Prove#ثابت کردن#Can you prove your theory?#Demonstrate#B1#فعل#/pruːv/
-Provider#ارائه‌دهنده#The internet provider is reliable.#Supplier#B1#اسم#/prəˈvaɪdər/
-Puppet#عروسک خیمه‌شب‌بازی#The puppet show entertained the kids.#Marionette#A2#اسم#/ˈpʌpɪt/
-Puppy#توله سگ#The puppy played in the yard.#Dog#A1#اسم#/ˈpʌpi/
-Quantity#مقدار#Check the quantity of sugar.#Amount#B1#اسم#/ˈkwɑːntəti/
-Radius#شعاع#Measure the circle’s radius.#Half-diameter#B2#اسم#/ˈreɪdiəs/
-Rally#تجمع#They attended a peace rally.#Gathering#B2#اسم#/ˈræli/
-Ram#قوچ#The ram climbed the hill.#Sheep#B2#اسم#/ræm/
-Rank#رتبه#She holds a high rank in the army.#Position#B1#اسم#/ræŋk/
-Rapper#رپر#The rapper performed a new song.#Hip-hop artist#B1#اسم#/ˈræpər/
-Raven#کلاغ#A raven flew over the field.#Crow#B2#اسم#/ˈreɪvn/
-Realty#املاک#He works in realty sales.#Real estate#B2#اسم#/ˈriːəlti/
-Reasonable#منطقی#The price seems reasonable.#Fair#B1#صفت#/ˈriːznəbl/
-Recommendation#توصیه#I need a restaurant recommendation.#Advice#B1#اسم#/ˌrekəmenˈdeɪʃn/
-Recreation#تفریح#Swimming is great recreation.#Leisure#B1#اسم#/ˌriːkriˈeɪʃn/
-Reduction#کاهش#The store offered a price reduction.#Decrease#B1#اسم#/rɪˈdʌkʃn/
-Refusal#امتناع#Her refusal surprised everyone.#Denial#B2#اسم#/rɪˈfjuːzl/
-Reggae#رگی#He loves reggae music.#Music genre#B1#اسم#/ˈreɡeɪ/
-Remedy#درمان#This is a natural remedy for colds.#Cure#B1#اسم#/ˈremədi/
-Reminder#یادآوری#Set a reminder for the meeting.#Alert#B1#اسم#/rɪˈmaɪndər/
-Repetition#تکرار#Repetition improves memory.#Recurrence#B1#اسم#/ˌrepəˈtɪʃn/
-Researcher#پژوهشگر#The researcher analyzed the data.#Investigator#B1#اسم#/ˈriːsɜːrtʃər/
-Resident#ساکن#She’s a resident of this town.#Inhabitant#B1#اسم#/ˈrezɪdənt/
-Resolution#تصمیم#My resolution is to exercise daily.#Decision#B1#اسم#/ˌrezəˈluːʃn/
-Respond#پاسخ دادن#Please respond to my message.#Reply#B1#فعل#/rɪˈspɑːnd/
-Response#پاسخ#I’m waiting for your response.#Answer#B1#اسم#/rɪˈspɑːns/
-Retreat#عقب‌نشینی#The team made a strategic retreat.#Withdrawal#B2#اسم#/rɪˈtriːt/
-Reuse#استفاده مجدد#Reuse this bag to reduce waste.#Recycle#B1#فعل#/ˌriːˈjuːz/
-Review#بررسی#Write a review of the movie.#Evaluation#B1#اسم#/rɪˈvjuː/
-Revise#بازبینی کردن#Revise your essay before submitting.#Edit#B1#فعل#/rɪˈvaɪz/
-Ring#حلقه#She wears a gold ring.#Band#A1#اسم#/rɪŋ/
-Rinse#شستن#Rinse the dishes before washing.#Wash#A2#فعل#/rɪns/
-Risky#پرریسک#It’s a risky decision.#Dangerous#B1#صفت#/ˈrɪski/
-Routine#روال#Follow a daily routine.#Schedule#B1#اسم#/ruːˈtiːn/
-Rudeness#بی‌ادبی#His rudeness upset the guests.#Impoliteness#B2#اسم#/ˈruːdnəs/
-Ruin#ویرانی#The storm caused widespread ruin.#Destruction#B1#اسم#/ˈruːɪn/
-Sacred#مقدس#The temple is a sacred place.#Holy#B2#صفت#/ˈseɪkrɪd/
-Salesperson#فروشنده#The salesperson was very helpful.#Seller#A2#اسم#/ˈseɪlzpɜːrsn/
-Salon#آرایشگاه#She visited the hair salon.#Parlor#A2#اسم#/səˈlɑːn/
-Salsa#سالسا#We danced salsa at the party.#Dance, Sauce#A2#اسم#/ˈsɑːlsə/
-Salty#شور#The soup was too salty.#Brine#A2#صفت#/ˈsɔːlti/
-Saving#پس‌انداز#Saving money is important.#Reserve#B1#اسم#/ˈseɪvɪŋ/
-Scary#ترسناک#The scary movie kept me awake.#Frightening#A2#صفت#/ˈskeri/
-Scenery#منظره#The mountain scenery was stunning.#Landscape#B1#اسم#/ˈsiːnəri/
-Seashell#صدف#She collected seashells on the beach.#Shell#A2#اسم#/ˈsiːʃel/
-Seasick#دریازده#He felt seasick on the ferry.#Nauseous#B1#صفت#/ˈsiːsɪk/
-Security#امنیت#Airport security checked my bag.#Safety#B1#اسم#/səˈkjʊrəti/
-Semester#ترم#The semester starts in September.#Term#A2#اسم#/səˈmestər/
-Serving#سرو#One serving of pasta is enough.#Portion#A2#اسم#/ˈsɜːrvɪŋ/
-Shave#تراشیدن#He shaves his beard daily.#Trim#A2#فعل#/ʃeɪv/
-Shopper#خریدار#The shopper carried heavy bags.#Customer#A2#اسم#/ˈʃɑːpər/
-Shower#دوش#Take a quick shower before bed.#Bath#A1#اسم#/ˈʃaʊər/
-Shrimp#میگو#Grill shrimp for the barbecue.#Prawn#A2#اسم#/ʃrɪmp/
-Sidewalk#پیاده‌رو#Walk on the sidewalk for safety.#Pavement#A2#اسم#/ˈsaɪdwɔːk/
-Similarity#شباهت#There’s a similarity between the twins.#Resemblance#B1#اسم#/ˌsɪməˈlærəti/
-Skinny#لاغر#He’s skinny but strong.#Thin#A2#صفت#/ˈskɪni/
-Skip#جا انداختن#Skip the ads in the video.#Omit#B1#فعل#/skɪp/
-Slang#عامیانه#Learn some local slang words.#Colloquialism#B1#اسم#/slæŋ/
-Slim#باریک#She has a slim figure.#Slender#B1#صفت#/slɪm/
-Snapshot#عکس فوری#Take a snapshot of the view.#Photo#B1#اسم#/ˈsnæpʃɑːt/
-Sneaker#کفش ورزشی#Wear sneakers for the hike.#Athletic shoe#A2#اسم#/ˈsniːkər/
-Softball#سافتبال#She plays softball every weekend.#Baseball#B1#اسم#/ˈsɔːftbɔːl/
-Software#نرم‌افزار#Install the latest software.#Program#A2#اسم#/ˈsɔːftwer/
-Solo#تکی#He performed a solo song.#Alone#B1#صفت#/ˈsoʊloʊ/
-Somewhat#تا حدی#The task is somewhat challenging.#Partially#B1#قید#/ˈsʌmwʌt/
-Songwriter#ترانه‌سرا#The songwriter wrote a hit song.#Lyricist#B1#اسم#/ˈsɔːŋraɪtər/
-Spacious#جادار#The apartment is spacious.#Roomy#B1#صفت#/ˈspeɪʃəs/
-Speaker#سخنران#The speaker inspired the audience.#Presenter#A2#اسم#/ˈspiːkər/
-Spice#ادویه#Add spice to the stew.#Seasoning#A2#اسم#/spaɪs/
-Spicy#تند#The curry is very spicy.#Hot#A2#صفت#/ˈspaɪsi/
-Staff#کارکنان#The staff helped with the event.#Employees#B1#اسم#/stæf/
-Stationery#لوازم التحریر#Buy stationery for the new school year.#Writing materials#A2#اسم#/ˈsteɪʃəneri/
-Statistic#آمار#The statistics show a clear trend.#Data#B1#اسم#/stəˈtɪstɪk/
-Statue#مجسمه#The statue stands in the park.#Sculpture#A2#اسم#/ˈstætʃuː/
-Steak#استیک#I ordered a grilled steak.#Meat#A2#اسم#/steɪk/
-Strawberry#توت‌فرنگی#She made a strawberry smoothie.#Berry#A2#اسم#/ˈstrɔːberi/
-Stressful#پراسترس#The exam was very stressful.#Tense#B1#صفت#/ˈstresfl/
-Stylish#شیک#Her outfit is very stylish.#Fashionable#B1#صفت#/ˈstaɪlɪʃ/
-Stylist#طراح مد#The stylist picked her dress.#Designer#B1#اسم#/ˈstaɪlɪst/
-Submit#ارسال کردن#Submit your homework online.#Send#B1#فعل#/səbˈmɪt/
-Suburb#حومه#They live in a quiet suburb.#Outskirts#B1#اسم#/ˈsʌbɜːrb/
-Subway#مترو#Take the subway to downtown.#Underground#A2#اسم#/ˈsʌbweɪ/
-Suite#سوئیت#They booked a luxury hotel suite.#Apartment#B1#اسم#/swiːt/
-Sunburn#آفتاب‌سوختگی#She got sunburn at the beach.#Sun damage#A2#اسم#/ˈsʌnbɜːrn/
-Supermarket#سوپرمارکت#Buy milk at the supermarket.#Grocery store#A2#اسم#/ˈsuːpərmɑːrkɪt/
-Survey#نظرسنجی#Complete the online survey.#Poll#B1#اسم#/ˈsɜːrveɪ/
-Sushi#سوشی#We ate sushi for lunch.#Japanese dish#A2#اسم#/ˈsuːʃi/
-Sweater#پلیور#Wear a sweater, it’s cold.#Jumper#A2#اسم#/ˈswetər/
-Swift#سریع#The swift bird flew by.#Fast#B1#صفت#/swɪft/
-Talent#استعداد#She has a talent for singing.#Gift#B1#اسم#/ˈtælənt/
-Tango#تانگو#They danced a passionate tango.#Dance#B1#اسم#/ˈtæŋɡoʊ/
-Teacher#معلم#The teacher explained the topic.#Educator#A1#اسم#/ˈtiːtʃər/
-Teenager#نوجوان#The teenager loves video games.#Adolescent#A2#اسم#/ˈtiːneɪdʒər/
-Thief#دزد#The thief stole her bag.#Robber#A2#اسم#/θiːf/
-Thirty#سی#She’s thirty years old.#30#A1#اسم#/ˈθɜːrti/
-Tortoise#لاک‌پشت#The tortoise hid in its shell.#Turtle#A2#اسم#/ˈtɔːrtəs/
-Toss#پرتاب کردن#Toss the ball to your friend.#Throw#A2#فعل#/tɔːs/
-Tournament#تورنمنت#He won the chess tournament.#Competition#B1#اسم#/ˈtʊrnəmənt/
-Tradition#سنت#It’s a family tradition to gather.#Custom#B1#اسم#/trəˈdɪʃn/
-Tutor#معلم خصوصی#The tutor helped with math homework.#Teacher#B1#اسم#/ˈtuːtər/
-Tweet#توییت#She shared a tweet about the event.#Post#B1#اسم#/twiːt/
-Twenty#بیست#He’s twenty years old.#20#A1#اسم#/ˈtwenti/
-Twin#دوقلو#They are identical twins.#Identical#A2#اسم#/twɪn/
-Uniform#یونیفرم#Wear your school uniform.#Outfit#A2#اسم#/ˈjuːnɪfɔːrm/
-Unpredictable#غیرقابل پیش‌بینی#The weather is unpredictable today.#Erratic#B2#صفت#/ˌʌnprɪˈdɪktəbl/
-User#کاربر#The user logged into the app.#Consumer#A2#اسم#/ˈjuːzər/
-Valet#پارکبان#The valet parked the car.#Attendant#B1#اسم#/væˈleɪ/
-Vegetarian#گیاه‌خوار#She’s a vegetarian and avoids meat.#Herbivore#A2#اسم#/ˌvedʒəˈteriən/
-Version#نسخه#Download the latest app version.#Edition#B1#اسم#/ˈvɜːrʒn/
-Vintage#قدیمی#She loves vintage dresses.#Classic#B1#صفت#/ˈvɪntɪdʒ/
-Violin#ویولن#He plays the violin beautifully.#String instrument#A2#اسم#/ˌvaɪəˈlɪn/
-Vista#چشم‌انداز#The mountain vista was stunning.#View#B2#اسم#/ˈvɪstə/
-Volcano#آتشفشان#The volcano erupted last year.#Mountain#B1#اسم#/vɑːlˈkeɪnoʊ/
-Wallet#کیف پول#He lost his wallet at the mall.#Purse#A2#اسم#/ˈwɑːlɪt/
-Waterfall#آبشار#The waterfall was breathtaking.#Cascade#A2#اسم#/ˈwɔːtərfɔːl/
-Windsurf#بادسواری#He loves to windsurf on weekends.#Water sport#B1#فعل#/ˈwɪndsɜːrf/
-Worker#کارگر#The worker repaired the bridge.#Laborer#A1#اسم#/ˈwɜːrkər/
-Workplace#محل کار#The workplace has a gym.#Office#B1#اسم#/ˈwɜːrkpleɪs/
-Worldwide#جهانی#The brand is known worldwide.#Global#B1#صفت#/ˈwɜːrldwaɪd/
-Writer#نویسنده#The writer published a novel.#Author#A2#اسم#/ˈraɪtər/
-Yoga#یوگا#She practices yoga every morning.#Exercise#A2#اسم#/ˈjoʊɡə/
+Beard#ریش#He grew a thick beard.#Facial hair#A2#/bɪrd/
+Berry#توت#She picked fresh berries from the garden.#Fruit#A2#/ˈberi/
+Bin#سطل زباله#Put the rubbish in the bin.#Trash can, Dustbin#A2#/bɪn/
+Biography#زندگینامه#I read a biography about Einstein.#Life story#A2#/baɪˈɑːɡrəfi/
+Bland#بی‌مزه#The food was too bland for my taste.#Tasteless#B1#/blænd/
+Blond#بلوند#He has blond hair and blue eyes.#Fair-haired#A2#/blɑːnd/
+Boggy#باتلاقی#The ground was boggy after the rain.#Muddy, Swampy#B2#/ˈbɑːɡi/
+Bother#زحمت کشیدن#Don’t bother calling, I’m busy.#Trouble, Annoy#B1#/ˈbɑːðər/
+Brand#برند#This is a popular clothing brand.#Label, Make#B1#/brænd/
+Bronze#برنز#She won a bronze medal in swimming.#Copper alloy#B1#/brɑːnz/
+Broom#جارو#She swept the floor with a broom.#Sweeper#A2#/bruːm/
+Brother#برادر#My brother is studying abroad.#Sibling#A1#/ˈbrʌðər/
+Budget#بودجه#We planned a tight budget for the trip.#Financial plan#B1#/ˈbʌdʒɪt/
+Building#ساختمان#That building has ten floors.#Structure#A1#/ˈbɪldɪŋ/
+Busy#مشغول#I’m too busy to talk now.#Occupied#A1#/ˈbɪzi/
+Butler#پیشخدمت#The butler served tea in the mansion.#Servant#B2#/ˈbʌtlər/
+Button#دکمه#Press the red button to start.#Switch#A1#/ˈbʌtn/
+Cafe#کافه#Let’s meet at the cafe downtown.#Coffee shop#A1#/ˈkæfeɪ/
+Cafeteria#غذاخوری#The cafeteria serves lunch daily.#Dining hall#A2#/ˌkæfəˈtɪriə/
+Calendar#تقویم#Mark the meeting on the calendar.#Schedule#A1#/ˈkælɪndər/
+Caller#تماس‌گیرنده#The caller left a voicemail.#Person calling#B1#/ˈkɔːlər/
+Cancel#لغو کردن#They canceled the concert due to rain.#Call off#B1#/ˈkænsl/
+Cannon#توپ جنگی#The cannon fired during the ceremony.#Artillery#B2#/ˈkænən/
+Canoe#قایق پارویی#We paddled a canoe on the lake.#Boat#B1#/kəˈnuː/
+Canyon#دره#The Grand Canyon is stunning.#Gorge#B2#/ˈkænjən/
+Cargo#محموله#The ship carried heavy cargo.#Freight#B1#/ˈkɑːrɡoʊ/
+Carpenter#نجار#The carpenter built a wooden chair.#Woodworker#B1#/ˈkɑːrpəntər/
+Cashier#صندوقدار#The cashier scanned my groceries.#Teller#A2#/kæˈʃɪr/
+Celsius#سانتیگراد#It’s 20 degrees Celsius today.#Centigrade#A2#/ˈselsiəs/
+Centennial#صدسالگی#The town celebrated its centennial.#100th anniversary#B2#/senˈteniəl/
+Challenge#چالش#The puzzle was a real challenge.#Test, Task#B1#/ˈtʃælɪndʒ/
+Chat#گپ زدن#We chatted about movies over coffee.#Talk#A1#/tʃæt/
+Cheap#ارزان#This shirt was really cheap.#Inexpensive#A1#/tʃiːp/
+Chef#آشپز#The chef prepared a delicious meal.#Cook#A2#/ʃef/
+Chopstick#چوبک غذاخوری#Use chopsticks to eat sushi.#Eating sticks#A2#/ˈtʃɑːpstɪk/
+Chore#کار خانگی#Washing dishes is a daily chore.#Task#A2#/tʃɔːr/
+Classic#کلاسیک#This is a classic novel.#Timeless#B1#/ˈklæsɪk/
+Click#کلیک کردن#Click the icon to open the file.#Press#A1#/klɪk/
+Clockwise#ساعت‌گرد#Turn the knob clockwise to open.#In clock direction#B1#/ˈklɑːkwaɪz/
+Coil#سیم‌پیچ#The coil was made of copper wire.#Spiral#B2#/kɔɪl/
+Columnist#ستون‌نویس#The columnist wrote about politics.#Journalist#B2#/ˈkɑːləmnɪst/
+Comet#ستاره دنباله‌دار#We saw a comet in the night sky.#Celestial body#B2#/ˈkɑːmɪt/
+Comparison#مقایسه#She made a comparison between the two cars.#Contrast#B1#/kəmˈpærɪsn/
+Compatible#سازگار#This app is compatible with my phone.#Suitable#B2#/kəmˈpætəbl/
+Complaint#شکایت#He filed a complaint about the service.#Grievance#B1#/kəmˈpleɪnt/
+Computer#کامپیوتر#I work on my computer all day.#PC#A1#/kəmˈpjuːtər/
+Concert#کنسرت#We enjoyed a rock concert last night.#Musical performance#A2#/ˈkɑːnsərt/
+Congratulations#تبریک#Congratulations on your new job!#Good wishes#A2#/kənˌɡrætʃəˈleɪʃn/
+Container#ظرف#Store leftovers in a container.#Box#A2#/kənˈteɪnər/
+Contest#مسابقه#She won the singing contest.#Competition#B1#/ˈkɑːntest/
+Contribute#مشارکت کردن#He contributed to the charity.#Donate, Assist#B1#/kənˈtrɪbjuːt/
+Convenient#راحت#This app is very convenient to use.#Handy#B1#/kənˈviːniənt/
+Correspond#مکاتبه کردن#They correspond via email weekly.#Communicate#B2#/ˌkɔːrəˈspɑːnd/
+Costume#لباس#She wore a witch costume for Halloween.#Outfit#A2#/ˈkɑːstuːm/
+Countess#کنتس#The countess hosted a grand ball.#Noblewoman#C1#/ˈkaʊntəs/
+Courtesy#ادب#He showed courtesy to his guests.#Politeness#B2#/ˈkɜːrtəsi/
+Credit#اعتبار#She has good credit for loans.#Trust#B1#/ˈkredɪt/
+Crime#جنایت#The police investigated the crime.#Offense#B1#/kraɪm/
+Cruise#کشتی‌سواری#We went on a Caribbean cruise.#Voyage#B1#/kruːz/
+Cuisine#آشپزی#Italian cuisine is my favorite.#Cooking style#B1#/kwɪˈziːn/
+Culinary#آشپزی#She has great culinary skills.#Cooking#B2#/ˈkʌlɪneri/
+Culture#فرهنگ#This city has a rich culture.#Heritage#B1#/ˈkʌltʃər/
+Curly#فر#Her curly hair looks amazing.#Wavy#A2#/ˈkɜːrli/
+Curry#کاری#I love spicy chicken curry.#Spicy dish#A2#/ˈkɜːri/
+Custom#سفارشی#They ordered a custom-made cake.#Personalized#B1#/ˈkʌstəm/
+Customer#مشتری#The customer asked for a refund.#Client#A1#/ˈkʌstəmər/
+Cyclist#دوچرخه‌سوار#The cyclist rode up the hill.#Biker#A2#/ˈsaɪklɪst/
+Deep#عمیق#The lake is very deep.#Profound#A2#/diːp/
+Default#پیش‌فرض#Use the default settings for now.#Standard#B2#/dɪˈfɔːlt/
+Demonstrative#نمایشی#His speech was very demonstrative.#Expressive#C1#/dɪˈmɑːnstrətɪv/
+Desktop#دسکتاپ#I organized my desktop icons.#Computer screen#B1#/ˈdesktɑːp/
+Detective#کارآگاه#The detective solved the mystery.#Investigator#B1#/dɪˈtektɪv/
+Dice#تاس#Roll the dice to start the game.#Cube#A2#/daɪs/
+Disk#دیسک#Save the file to a disk.#Disc#B1#/dɪsk/
+District#منطقه#This is the shopping district.#Area#B1#/ˈdɪstrɪkt/
+Earring#گوشواره#She lost her favorite earring.#Jewelry#A2#/ˈɪrɪŋ/
+Edition#ویرایش#This is the new edition of the book.#Version#B1#/ɪˈdɪʃn/
+Editor#ویراستار#The editor checked the manuscript.#Publisher#B1#/ˈedɪtər/
+Ego#خود#He has a big ego.#Self-esteem#B2#/ˈiːɡoʊ/
+Electronic#الکترونیکی#I bought an electronic gadget.#Digital#B1#/ɪˌlekˈtrɑːnɪk/
+Elevator#آسانسور#Take the elevator to the top floor.#Lift#A2#/ˈelɪveɪtər/
+Elk#گوزن شمالی#We saw an elk in the forest.#Deer#B2#/elk/
+Elm#نارون#The elm tree provides shade.#Tree#B2#/elm/
+Empire#امپراتوری#The Roman Empire was powerful.#Kingdom#B2#/ˈempaɪər/
+Encyclopedia#دانشنامه#Look it up in the encyclopedia.#Reference book#B2#/ɪnˌsaɪkləˈpiːdiə/
+Engage#مشغول کردن#The teacher engaged the class.#Involve#B2#/ɪnˈɡeɪdʒ/
+Entertainer#سرگرم‌کننده#The entertainer sang beautifully.#Performer#B1#/ˌentərˈteɪnər/
+Etiquette#آداب#Learn proper dining etiquette.#Manners#B2#/ˈetɪket/
+Evening#عصر#Let’s meet this evening.#Nighttime#A1#/ˈiːvnɪŋ/
+Fancy#شیک#She wore a fancy dress to the party.#Elegant#B1#/ˈfænsi/
+Farmer#کشاورز#The farmer grows fresh vegetables.#Agriculturist#A2#/ˈfɑːrmər/
+Fascinate#مجذوب کردن#The book fascinated the children.#Captivate#B2#/ˈfæsɪneɪt/
+Faucet#شیر آب#Fix the dripping faucet.#Tap#A2#/ˈfɔːsɪt/
+Feedback#بازخورد#Your feedback helps us improve.#Response#B1#/ˈfiːdbæk/
+Feminine#زنانه#She prefers feminine clothing.#Womanly#B2#/ˈfemənɪn/
+Fiction#داستان#I enjoy reading fiction books.#Novel#B1#/ˈfɪkʃn/
+Fist#مشت#He clenched his fist in anger.#Hand#A2#/fɪst/
+Flamingo#فلامینگو#The flamingo stood in the water.#Bird#B2#/fləˈmɪŋɡoʊ/
+Flea#کک#The dog was scratching fleas.#Insect#B2#/fliː/
+Flyer#تراکت#They handed out flyers for the event.#Leaflet#B1#/ˈflaɪər/
+Foggy#مه‌آلود#The foggy morning delayed flights.#Misty#A2#/ˈfɑːɡi/
+Foreigner#خارجی#The foreigner needed a map.#Non-native#B1#/ˈfɔːrənər/
+Formal#رسمی#Wear formal attire for the meeting.#Official#B1#/ˈfɔːrml/
+Foster#پرورش دادن#They foster stray cats.#Nurture#B2#/ˈfɑːstər/
+Freak#عجیب#He’s a fitness freak.#Enthusiast#B2#/friːk/
+Friendly#دوستانه#She’s always friendly to everyone.#Kind#A1#/ˈfrendli/
+Fry#سرخ کردن#Fry the eggs in a pan.#Cook#A2#/fraɪ/
+Funky#خاص#This song has a funky beat.#Quirky#B1#/ˈfʌŋki/
+Fuse#فیوز#The fuse needs replacing.#Circuit breaker#B2#/fjuːz/
+Gala#جشن#They attended a charity gala.#Festival#B2#/ˈɡɑːlə/
+Garlic#سیر#Add garlic to the sauce.#Herb#A2#/ˈɡɑːrlɪk/
+Garner#جمع‌آوری کردن#She garnered support for the project.#Collect#B2#/ˈɡɑːrnər/
+Gem#گوهر#The necklace has a rare gem.#Jewel#B2#/dʒem/
+Geography#جغرافیا#We studied world geography.#Earth science#B1#/dʒiˈɑːɡrəfi/
+Girlfriend#دوست‌دختر#His girlfriend is a doctor.#Partner#A2#/ˈɡɜːrlfrend/
+Glacier#یخچال طبیعی#The glacier is slowly melting.#Ice sheet#B2#/ˈɡleɪʃər/
+Goodness#نیکی#Thank goodness you’re here!#Kindness#B1#/ˈɡʊdnəs/
+Gorgeous#خیره‌کننده#The sunset was gorgeous.#Stunning#B1#/ˈɡɔːrdʒəs/
+Gospel#موسیقی مذهبی#They sang gospel at church.#Religious music#B2#/ˈɡɑːspl/
+Grace#لطافت#She danced with grace.#Elegance#B2#/ɡreɪs/
+Graduation#فارغ‌التحصیلی#Her graduation is next week.#Commencement#B1#/ˌɡrædʒuˈeɪʃn/
+Greasy#چرب#The pizza was too greasy.#Oily#B1#/ˈɡriːsi/
+Greeting#سلام#Send a greeting card for her birthday.#Salutation#A1#/ˈɡriːtɪŋ/
+Grocery#خواربار#I bought groceries for dinner.#Food items#A2#/ˈɡroʊsəri/
+Guinea#خوکچه هندی#Guinea pigs make great pets.#Rodent#B1#/ˈɡɪni/
+Guitar#گیتار#He played a tune on the guitar.#String instrument#A2#/ɡɪˈtɑːr/
+Gum#آدامس#She chewed gum during the meeting.#Chewing gum#A2#/ɡʌm/
+Gymnastic#ژیمناستیک#She excels at gymnastic routines.#Athletics#B1#/dʒɪmˈnæstɪk/
+Haircut#کوتاهی مو#I need a haircut this weekend.#Trim#A2#/ˈherkʌt/
+Hairstyle#مدل مو#She tried a new hairstyle.#Hairdo#A2#/ˈherstaɪl/
+Hazel#فندقی#Her hazel eyes sparkled.#Brownish-green#B1#/ˈheɪzl/
+Headphone#هدفون#Use headphones to listen to music.#Earphones#A2#/ˈhedfoʊn/
+Healthy#سالم#Eat healthy to stay fit.#Nutritious#A1#/ˈhelθi/
+Herbal#گیاهی#Try this herbal tea for relaxation.#Natural#B1#/ˈɜːrbl/
+Historic#تاریخی#This is a historic monument.#Historical#B1#/hɪˈstɔːrɪk/
+Horror#وحشت#I don’t watch horror movies.#Terror#B1#/ˈhɔːrər/
+Household#خانگی#Household chores take time.#Domestic#B1#/ˈhaʊshoʊld/
+Housework#کارهای خانه#She does housework every weekend.#Chores#A2#/ˈhaʊswɜːrk/
+Icon#آیکون#Click the icon to start the app.#Symbol#B1#/ˈaɪkɑːn/
+Illustration#تصویر#The book has colorful illustrations.#Drawing#B1#/ˌɪləˈstreɪʃn/
+Incorporate#گنجاندن#Incorporate feedback into the plan.#Include#B2#/ɪnˈkɔːrpəreɪt/
+Incredible#باورنکردنی#The view was incredible.#Amazing#B1#/ɪnˈkredəbl/
+Industry#صنعت#She works in the fashion industry.#Business#B1#/ˈɪndəstri/
+Inexpensive#ارزان#This store sells inexpensive clothes.#Cheap#A2#/ˌɪnɪkˈspensɪv/
+Initial#اولیه#Write your initials on the form.#First letter#B1#/ɪˈnɪʃl/
+Ink#جوهر#The pen ran out of ink.#Dye#A2#/ɪŋk/
+Insert#وارد کردن#Insert the key into the lock.#Put in#B1#/ɪnˈsɜːrt/
+Insight#بینش#Her insight helped solve the problem.#Understanding#B2#/ˈɪnsaɪt/
+Insomnia#بی‌خوابی#He suffers from insomnia.#Sleeplessness#B2#/ɪnˈsɑːmniə/
+Installation#نصب#The software installation was quick.#Setup#B2#/ˌɪnstəˈleɪʃn/
+Interactive#تعاملی#The game is highly interactive.#Participatory#B1#/ˌɪntərˈæktɪv/
+Italic#ایتالیک#Use italic text for emphasis.#Slanted#B1#/ɪˈtælɪk/
+Itchy#خارش‌دار#This sweater is itchy.#Irritating#A2#/ˈɪtʃi/
+Jewelry#جواهرات#She loves wearing jewelry.#Ornaments#A2#/ˈdʒuːəlri/
+Joke#شوخی#He told a funny joke.#Prank#A1#/dʒoʊk/
+Kale#کلم پیچ#Kale is great for smoothies.#Greens#B1#/keɪl/
+Karaoke#کارائوکه#We sang karaoke at the party.#Sing-along#A2#/ˌkæriˈoʊki/
+Karate#کاراته#She practices karate twice a week.#Martial art#A2#/kəˈrɑːti/
+Keen#مشتاق#He’s keen to join the team.#Eager#B1#/kiːn/
+King#پادشاه#The king ruled for decades.#Monarch#A2#/kɪŋ/
+Lace#توری#Her dress has lace sleeves.#Fabric#A2#/leɪs/
+Lamb#بره#We had roast lamb for dinner.#Young sheep#A2#/læm/
+Lane#خط#Stay in your lane while driving.#Path#A2#/leɪn/
+Laundry#لباسشویی#I need to do the laundry.#Washing#A2#/ˈlɔːndri/
+League#لیگ#They joined a soccer league.#Association#B1#/liːɡ/
+Leaky#نشتی#The pipe is leaky and needs fixing.#Dripping#B1#/ˈliːki/
+Learner#یادگیرنده#She’s a quick learner.#Student#A2#/ˈlɜːrnər/
+Leisure#اوقات فراغت#Reading is my leisure activity.#Free time#B1#/ˈliːʒər/
+Liberty#آزادی#They fought for their liberty.#Freedom#B2#/ˈlɪbərti/
+Lime#لیموترش#Add lime juice to the cocktail.#Citrus#A2#/laɪm/
+Lively#سرزنده#The party was very lively.#Energetic#B1#/ˈlaɪvli/
+Loan#وام#She took out a bank loan.#Credit#B1#/loʊn/
+Lotion#لوسیون#Apply lotion to dry skin.#Cream#A2#/ˈloʊʃn/
+Lottery#بخت‌آزمایی#He won the lottery jackpot.#Raffle#B1#/ˈlɑːtəri/
+Maid#خدمتکار#The maid cleaned the hotel room.#Housekeeper#A2#/meɪd/
+Mall#مرکز خرید#Let’s shop at the mall.#Shopping center#A2#/mɔːl/
+Mandarin#ماندارین#She speaks fluent Mandarin.#Chinese#B1#/ˈmændərɪn/
+Mangrove#مانگرو#Mangroves grow near the coast.#Swamp tree#B2#/ˈmæŋɡroʊv/
+Manner#رفتار#Mind your manners at dinner.#Behavior#B1#/ˈmænər/
+Maple#افرا#Maple syrup is delicious.#Tree#B1#/ˈmeɪpl/
+Mate#دوست#He’s my best mate.#Friend#A2#/meɪt/
+Measurement#اندازه‌گیری#Take precise measurements.#Dimension#B1#/ˈmeʒərmənt/
+Medication#دارو#Take your medication daily.#Medicine#B1#/ˌmedɪˈkeɪʃn/
+Medicinal#دارویی#This plant has medicinal properties.#Healing#B2#/məˈdɪsɪnl/
+Menu#منو#Check the restaurant menu.#List#A1#/ˈmenjuː/
+Meter#متر#Measure it with a meter.#Unit#A2#/ˈmiːtər/
+Methodology#روش‌شناسی#The study used a clear methodology.#Approach#C1#/ˌmeθəˈdɑːlədʒi/
+Microphone#میکروفون#Speak clearly into the microphone.#Mic#A2#/ˈmaɪkrəfoʊn/
+Mint#نعناع#Add mint to the drink.#Herb#A2#/mɪnt/
+Morning#صبح#Good morning, how are you?#Dawn#A1#/ˈmɔːrnɪŋ/
+Moroccan#مراکشی#She bought a Moroccan lamp.#North African#B1#/məˈrɑːkən/
+Mother#مادر#My mother baked a cake.#Mom#A1#/ˈmʌðər/
+Motivate#انگیزه دادن#The coach motivated the team.#Inspire#B1#/ˈmoʊtɪveɪt/
+Motorcycle#موتورسیکلت#He rides a motorcycle to work.#Bike#A2#/ˈmoʊtərsaɪkl/
+Mountain#کوه#We hiked up the mountain.#Peak#A1#/ˈmaʊntn/
+Mulch#مالچ#Spread mulch in the garden.#Covering#B2#/mʌltʃ/
+Multicultural#چندفرهنگی#The festival was multicultural.#Diverse#B2#/ˌmʌltiˈkʌltʃərəl/
+Mural#نقاشی دیواری#The mural decorates the wall.#Wall painting#B1#/ˈmjʊrəl/
+Mustache#سبیل#He trimmed his mustache.#Facial hair#A2#/ˈmʌstæʃ/
+Necklace#گردنبند#She wore a silver necklace.#Chain#A2#/ˈnekləs/
+Neutral#خنثی#Stay neutral in the discussion.#Impartial#B1#/ˈnuːtrəl/
+Niece#خواهرزاده#My niece loves to draw.#Relative#A2#/niːs/
+Nightclub#کلوپ شبانه#They danced at the nightclub.#Club#A2#/ˈnaɪtklʌb/
+Noisy#پر سر و صدا#The noisy crowd cheered loudly.#Loud#A2#/ˈnɔɪzi/
+Number#شماره#Write down your phone number.#Digit#A1#/ˈnʌmbər/
+Oat#جو#Oatmeal is a healthy breakfast.#Cereal#A2#/oʊt/
+Octopus#هشت‌پا#The octopus swam in the aquarium.#Sea creature#B1#/ˈɑːktəpəs/
+Offer#پیشنهاد#She made an offer on the house.#Proposal#B1#/ˈɔːfər/
+Officer#افسر#The officer helped with traffic.#Official#A2#/ˈɔːfɪsər/
+Ointment#پماد#Apply ointment to the cut.#Cream#B1#/ˈɔɪntmənt/
+Optical#نوری#The optical illusion was amazing.#Visual#B2#/ˈɑːptɪkl/
+Orchid#ارکیده#The orchid bloomed beautifully.#Plant#B1#/ˈɔːrkɪd/
+Outdoor#فضای باز#We enjoy outdoor sports.#Outside#A2#/ˈaʊtdɔːr/
+Overtime#اضافه‌کاری#He worked overtime to finish.#Extra hours#B1#/ˈoʊvərtaɪm/
+Painting#نقاشی#Her painting won an award.#Artwork#A2#/ˈpeɪntɪŋ/
+Paper#کاغذ#Write your name on the paper.#Sheet#A1#/ˈpeɪpər/
+Paperback#کتاب جلد نرم#I prefer paperback books.#Softcover#B1#/ˈpeɪpərbæk/
+Participation#مشارکت#Your participation is appreciated.#Involvement#B1#/pɑːrˌtɪsɪˈpeɪʃn/
+Pasta#پاستا#Cook pasta for dinner.#Noodles#A2#/ˈpɑːstə/
+Peacock#طاووس#The peacock spread its feathers.#Bird#B1#/ˈpiːkɑːk/
+Peak#قله#We reached the mountain peak.#Summit#B1#/piːk/
+Peanut#بادام زمینی#She ate a peanut butter sandwich.#Nut#A2#/ˈpiːnʌt/
+Performance#اجرا#The performance was outstanding.#Show#B1#/pərˈfɔːrməns/
+Pharmacy#داروخانه#Get medicine from the pharmacy.#Drugstore#A2#/ˈfɑːrməsi/
+Photograph#عکس#Take a photograph of the sunset.#Picture#A1#/ˈfoʊtəɡræf/
+Photography#عکاسی#She studied photography in college.#Photo art#B1#/fəˈtɑːɡrəfi/
+Pierce#سوراخ کردن#She pierced her nose.#Puncture#B1#/pɪrs/
+Pizza#پیتزا#Let’s order a pepperoni pizza.#Italian dish#A1#/ˈpiːtsə/
+Plaza#میدان#Meet me at the city plaza.#Square#A2#/ˈplɑːzə/
+Polka#پولکا#They danced a lively polka.#Dance#B2#/ˈpoʊlkə/
+Possession#مالکیت#The car is his possession.#Ownership#B1#/pəˈzeʃn/
+Preference#ترجیح#What’s your preference for dinner?#Choice#B1#/ˈprefrəns/
+Pretty#زیبا#She looked pretty in her dress.#Beautiful#A1#/ˈprɪti/
+Processor#پردازنده#The computer has a fast processor.#CPU#B1#/ˈprɑːsesər/
+Prove#ثابت کردن#Can you prove your theory?#Demonstrate#B1#/pruːv/
+Provider#ارائه‌دهنده#The internet provider is reliable.#Supplier#B1#/prəˈvaɪdər/
+Puppet#عروسک خیمه‌شب‌بازی#The puppet show entertained the kids.#Marionette#A2#/ˈpʌpɪt/
+Puppy#توله سگ#The puppy played in the yard.#Dog#A1#/ˈpʌpi/
+Quantity#مقدار#Check the quantity of sugar.#Amount#B1#/ˈkwɑːntəti/
+Radius#شعاع#Measure the circle’s radius.#Half-diameter#B2#/ˈreɪdiəs/
+Rally#تجمع#They attended a peace rally.#Gathering#B2#/ˈræli/
+Ram#قوچ#The ram climbed the hill.#Sheep#B2#/ræm/
+Rank#رتبه#She holds a high rank in the army.#Position#B1#/ræŋk/
+Rapper#رپر#The rapper performed a new song.#Hip-hop artist#B1#/ˈræpər/
+Raven#کلاغ#A raven flew over the field.#Crow#B2#/ˈreɪvn/
+Realty#املاک#He works in realty sales.#Real estate#B2#/ˈriːəlti/
+Reasonable#منطقی#The price seems reasonable.#Fair#B1#/ˈriːznəbl/
+Recommendation#توصیه#I need a restaurant recommendation.#Advice#B1#/ˌrekəmenˈdeɪʃn/
+Recreation#تفریح#Swimming is great recreation.#Leisure#B1#/ˌriːkriˈeɪʃn/
+Reduction#کاهش#The store offered a price reduction.#Decrease#B1#/rɪˈdʌkʃn/
+Refusal#امتناع#Her refusal surprised everyone.#Denial#B2#/rɪˈfjuːzl/
+Reggae#رگی#He loves reggae music.#Music genre#B1#/ˈreɡeɪ/
+Remedy#درمان#This is a natural remedy for colds.#Cure#B1#/ˈremədi/
+Reminder#یادآوری#Set a reminder for the meeting.#Alert#B1#/rɪˈmaɪndər/
+Repetition#تکرار#Repetition improves memory.#Recurrence#B1#/ˌrepəˈtɪʃn/
+Researcher#پژوهشگر#The researcher analyzed the data.#Investigator#B1#/ˈriːsɜːrtʃər/
+Resident#ساکن#She’s a resident of this town.#Inhabitant#B1#/ˈrezɪdənt/
+Resolution#تصمیم#My resolution is to exercise daily.#Decision#B1#/ˌrezəˈluːʃn/
+Respond#پاسخ دادن#Please respond to my message.#Reply#B1#/rɪˈspɑːnd/
+Response#پاسخ#I’m waiting for your response.#Answer#B1#/rɪˈspɑːns/
+Retreat#عقب‌نشینی#The team made a strategic retreat.#Withdrawal#B2#/rɪˈtriːt/
+Reuse#استفاده مجدد#Reuse this bag to reduce waste.#Recycle#B1#/ˌriːˈjuːz/
+Review#بررسی#Write a review of the movie.#Evaluation#B1#/rɪˈvjuː/
+Revise#بازبینی کردن#Revise your essay before submitting.#Edit#B1#/rɪˈvaɪz/
+Ring#حلقه#She wears a gold ring.#Band#A1#/rɪŋ/
+Rinse#شستن#Rinse the dishes before washing.#Wash#A2#/rɪns/
+Risky#پرریسک#It’s a risky decision.#Dangerous#B1#/ˈrɪski/
+Routine#روال#Follow a daily routine.#Schedule#B1#/ruːˈtiːn/
+Rudeness#بی‌ادبی#His rudeness upset the guests.#Impoliteness#B2#/ˈruːdnəs/
+Ruin#ویرانی#The storm caused widespread ruin.#Destruction#B1#/ˈruːɪn/
+Sacred#مقدس#The temple is a sacred place.#Holy#B2#/ˈseɪkrɪd/
+Salesperson#فروشنده#The salesperson was very helpful.#Seller#A2#/ˈseɪlzpɜːrsn/
+Salon#آرایشگاه#She visited the hair salon.#Parlor#A2#/səˈlɑːn/
+Salsa#سالسا#We danced salsa at the party.#Dance, Sauce#A2#/ˈsɑːlsə/
+Salty#شور#The soup was too salty.#Brine#A2#/ˈsɔːlti/
+Saving#پس‌انداز#Saving money is important.#Reserve#B1#/ˈseɪvɪŋ/
+Scary#ترسناک#The scary movie kept me awake.#Frightening#A2#/ˈskeri/
+Scenery#منظره#The mountain scenery was stunning.#Landscape#B1#/ˈsiːnəri/
+Seashell#صدف#She collected seashells on the beach.#Shell#A2#/ˈsiːʃel/
+Seasick#دریازده#He felt seasick on the ferry.#Nauseous#B1#/ˈsiːsɪk/
+Security#امنیت#Airport security checked my bag.#Safety#B1#/səˈkjʊrəti/
+Semester#ترم#The semester starts in September.#Term#A2#/səˈmestər/
+Serving#سرو#One serving of pasta is enough.#Portion#A2#/ˈsɜːrvɪŋ/
+Shave#تراشیدن#He shaves his beard daily.#Trim#A2#/ʃeɪv/
+Shopper#خریدار#The shopper carried heavy bags.#Customer#A2#/ˈʃɑːpər/
+Shower#دوش#Take a quick shower before bed.#Bath#A1#/ˈʃaʊər/
+Shrimp#میگو#Grill shrimp for the barbecue.#Prawn#A2#/ʃrɪmp/
+Sidewalk#پیاده‌رو#Walk on the sidewalk for safety.#Pavement#A2#/ˈsaɪdwɔːk/
+Similarity#شباهت#There’s a similarity between the twins.#Resemblance#B1#/ˌsɪməˈlærəti/
+Skinny#لاغر#He’s skinny but strong.#Thin#A2#/ˈskɪni/
+Skip#جا انداختن#Skip the ads in the video.#Omit#B1#/skɪp/
+Slang#عامیانه#Learn some local slang words.#Colloquialism#B1#/slæŋ/
+Slim#باریک#She has a slim figure.#Slender#B1#/slɪm/
+Snapshot#عکس فوری#Take a snapshot of the view.#Photo#B1#/ˈsnæpʃɑːt/
+Sneaker#کفش ورزشی#Wear sneakers for the hike.#Athletic shoe#A2#/ˈsniːkər/
+Softball#سافتبال#She plays softball every weekend.#Baseball#B1#/ˈsɔːftbɔːl/
+Software#نرم‌افزار#Install the latest software.#Program#A2#/ˈsɔːftwer/
+Solo#تکی#He performed a solo song.#Alone#B1#/ˈsoʊloʊ/
+Somewhat#تا حدی#The task is somewhat challenging.#Partially#B1#/ˈsʌmwʌt/
+Songwriter#ترانه‌سرا#The songwriter wrote a hit song.#Lyricist#B1#/ˈsɔːŋraɪtər/
+Spacious#جادار#The apartment is spacious.#Roomy#B1#/ˈspeɪʃəs/
+Speaker#سخنران#The speaker inspired the audience.#Presenter#A2#/ˈspiːkər/
+Spice#ادویه#Add spice to the stew.#Seasoning#A2#/spaɪs/
+Spicy#تند#The curry is very spicy.#Hot#A2#/ˈspaɪsi/
+Staff#کارکنان#The staff helped with the event.#Employees#B1#/stæf/
+Stationery#لوازم التحریر#Buy stationery for the new school year.#Writing materials#A2#/ˈsteɪʃəneri/
+Statistic#آمار#The statistics show a clear trend.#Data#B1#/stəˈtɪstɪk/
+Statue#مجسمه#The statue stands in the park.#Sculpture#A2#/ˈstætʃuː/
+Steak#استیک#I ordered a grilled steak.#Meat#A2#/steɪk/
+Strawberry#توت‌فرنگی#She made a strawberry smoothie.#Berry#A2#/ˈstrɔːberi/
+Stressful#پراسترس#The exam was very stressful.#Tense#B1#/ˈstresfl/
+Stylish#شیک#Her outfit is very stylish.#Fashionable#B1#/ˈstaɪlɪʃ/
+Stylist#طراح مد#The stylist picked her dress.#Designer#B1#/ˈstaɪlɪst/
+Submit#ارسال کردن#Submit your homework online.#Send#B1#/səbˈmɪt/
+Suburb#حومه#They live in a quiet suburb.#Outskirts#B1#/ˈsʌbɜːrb/
+Subway#مترو#Take the subway to downtown.#Underground#A2#/ˈsʌbweɪ/
+Suite#سوئیت#They booked a luxury hotel suite.#Apartment#B1#/swiːt/
+Sunburn#آفتاب‌سوختگی#She got sunburn at the beach.#Sun damage#A2#/ˈsʌnbɜːrn/
+Supermarket#سوپرمارکت#Buy milk at the supermarket.#Grocery store#A2#/ˈsuːpərmɑːrkɪt/
+Survey#نظرسنجی#Complete the online survey.#Poll#B1#/ˈsɜːrveɪ/
+Sushi#سوشی#We ate sushi for lunch.#Japanese dish#A2#/ˈsuːʃi/
+Sweater#پلیور#Wear a sweater, it’s cold.#Jumper#A2#/ˈswetər/
+Swift#سریع#The swift bird flew by.#Fast#B1#/swɪft/
+Talent#استعداد#She has a talent for singing.#Gift#B1#/ˈtælənt/
+Tango#تانگو#They danced a passionate tango.#Dance#B1#/ˈtæŋɡoʊ/
+Teacher#معلم#The teacher explained the topic.#Educator#A1#/ˈtiːtʃər/
+Teenager#نوجوان#The teenager loves video games.#Adolescent#A2#/ˈtiːneɪdʒər/
+Thief#دزد#The thief stole her bag.#Robber#A2#/θiːf/
+Thirty#سی#She’s thirty years old.#30#A1#/ˈθɜːrti/
+Tortoise#لاک‌پشت#The tortoise hid in its shell.#Turtle#A2#/ˈtɔːrtəs/
+Toss#پرتاب کردن#Toss the ball to your friend.#Throw#A2#/tɔːs/
+Tournament#تورنمنت#He won the chess tournament.#Competition#B1#/ˈtʊrnəmənt/
+Tradition#سنت#It’s a family tradition to gather.#Custom#B1#/trəˈdɪʃn/
+Tutor#معلم خصوصی#The tutor helped with math homework.#Teacher#B1#/ˈtuːtər/
+Tweet#توییت#She shared a tweet about the event.#Post#B1#/twiːt/
+Twenty#بیست#He’s twenty years old.#20#A1#/ˈtwenti/
+Twin#دوقلو#They are identical twins.#Identical#A2#/twɪn/
+Uniform#یونیفرم#Wear your school uniform.#Outfit#A2#/ˈjuːnɪfɔːrm/
+Unpredictable#غیرقابل پیش‌بینی#The weather is unpredictable today.#Erratic#B2#/ˌʌnprɪˈdɪktəbl/
+User#کاربر#The user logged into the app.#Consumer#A2#/ˈjuːzər/
+Valet#پارکبان#The valet parked the car.#Attendant#B1#/væˈleɪ/
+Vegetarian#گیاه‌خوار#She’s a vegetarian and avoids meat.#Herbivore#A2#/ˌvedʒəˈteriən/
+Version#نسخه#Download the latest app version.#Edition#B1#/ˈvɜːrʒn/
+Vintage#قدیمی#She loves vintage dresses.#Classic#B1#/ˈvɪntɪdʒ/
+Violin#ویولن#He plays the violin beautifully.#String instrument#A2#/ˌvaɪəˈlɪn/
+Vista#چشم‌انداز#The mountain vista was stunning.#View#B2#/ˈvɪstə/
+Volcano#آتشفشان#The volcano erupted last year.#Mountain#B1#/vɑːlˈkeɪnoʊ/
+Wallet#کیف پول#He lost his wallet at the mall.#Purse#A2#/ˈwɑːlɪt/
+Waterfall#آبشار#The waterfall was breathtaking.#Cascade#A2#/ˈwɔːtərfɔːl/
+Windsurf#بادسواری#He loves to windsurf on weekends.#Water sport#B1#/ˈwɪndsɜːrf/
+Worker#کارگر#The worker repaired the bridge.#Laborer#A1#/ˈwɜːrkər/
+Workplace#محل کار#The workplace has a gym.#Office#B1#/ˈwɜːrkpleɪs/
+Worldwide#جهانی#The brand is known worldwide.#Global#B1#/ˈwɜːrldwaɪd/
+Writer#نویسنده#The writer published a novel.#Author#A2#/ˈraɪtər/
+Yoga#یوگا#She practices yoga every morning.#Exercise#A2#/ˈjoʊɡə/
 Accuse#متهم کردن#He was accused of stealing the money.#Blame#B2#/əˈkjuːz/
 Adapt#سازگار شدن#She adapted quickly to the new environment.#Adjust#B1#/əˈdæpt/
 Admit#اعتراف کردن#He admitted to making a mistake.#Confess#B1#/ədˈmɪt/
